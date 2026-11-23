@@ -1,0 +1,48 @@
+{
+  "width": 1500,
+  "showFilename": true,
+  "resolutionMode": "3x",
+  "format": "png0",
+  "showMetadata": false,
+  "recursive": false,
+  "quickExportSelection": false,
+  "padding": {
+    "top": 24,
+    "right": 24,
+    "bottom": 24,
+    "left": 24,
+    "unified": true
+  },
+  "authorInfo": {
+    "show": false,
+    "align": "right",
+    "position": "bottom"
+  },
+  "watermark": {
+    "enable": false,
+    "type": "text",
+    "text": {
+      "content": "",
+      "fontSize": 28,
+      "color": "#cccccc"
+    },
+    "image": {
+      "src": ""
+    },
+    "opacity": 0.2,
+    "rotate": 30,
+    "height": 64,
+    "width": 120,
+    "x": 100,
+    "y": 100
+  },
+  "assetMark": {
+    "enable": false,
+    "ownerId": ""
+  },
+  "split": {
+    "height": 1000,
+    "overlap": 80,
+    "mode": "none"
+  }
+}
